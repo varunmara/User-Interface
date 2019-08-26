@@ -112,12 +112,34 @@ h2 {
 	margin: 0 20px;
 }
 
+.sub-section-sec {
+	display: inline-block;
+	width: 33%;
+	padding: 20px;
+	border-bottom: 1px solid black;
+}
 .middle-img {
 height: 200px;
 width: 100pc;
+margin: 20px 0;
+}
+
+header button {
+	position: relative;
+	border: 1px solid black;
+	background: white;
+	color: gray;
+	padding: 5px 50px;
+	margin-left: 220px;
+	bottom: 60px;
+}
+
+footer {
+	margin-top: 20px;
 }
 
 
 .copyright-text p {
 text-align: center;
+margin-top: 30px;
 }
